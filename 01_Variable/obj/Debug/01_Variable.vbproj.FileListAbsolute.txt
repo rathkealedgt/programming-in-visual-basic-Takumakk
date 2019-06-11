@@ -1,0 +1,11 @@
+C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\bin\Debug\01_Variable.exe.config
+C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\bin\Debug\01_Variable.exe
+C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\bin\Debug\01_Variable.pdb
+C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\bin\Debug\01_Variable.xml
+C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\obj\Debug\01_Variable.vbprojAssemblyReference.cache
+C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\obj\Debug\_01_Variable.Resources.resources
+C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\obj\Debug\01_Variable.vbproj.GenerateResource.cache
+C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\obj\Debug\01_Variable.vbproj.CoreCompileInputs.cache
+C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\obj\Debug\01_Variable.exe
+C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\obj\Debug\01_Variable.xml
+C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\obj\Debug\01_Variable.pdb
