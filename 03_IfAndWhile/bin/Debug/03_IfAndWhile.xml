@@ -1,0 +1,34 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+03_IfAndWhile
+</name>
+</assembly>
+<members>
+<member name="T:_03_IfAndWhile.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:_03_IfAndWhile.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:_03_IfAndWhile.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:_03_IfAndWhile.Module1">
+ <summary>
+     This exercise will introduce you to if statements and while loops.
+ </summary>
+ <author> Mr Macri </author>
+ <date> 13Jun19 </date>
+ 
+</member>
+</members>
+</doc>
