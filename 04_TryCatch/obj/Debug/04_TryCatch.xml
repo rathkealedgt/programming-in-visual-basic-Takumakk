@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+04_TryCatch
+</name>
+</assembly>
+<members>
+<member name="T:_04_TryCatch.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:_04_TryCatch.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:_04_TryCatch.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:_04_TryCatch.Module1">
+ <summary>
+     This program asks the user for a number until they enter a number between 1 and 10.
+ </summary>
+ <author> Mr M </author>
+ <date> 13Jun19 </date>
+</member>
+</members>
+</doc>
