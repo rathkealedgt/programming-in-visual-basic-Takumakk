@@ -1,9 +1,18 @@
 ﻿Module Module1
 
     Sub Main()
-        Const MYMESSAGE As String = "I heart Computer Science!"
+        Const strMyName As String = "Takuma Kaneko"
 
-        Dim Var14b13 As String = "Weird var name"
+        Const intMyAge As String = "16"
+
+        Dim dblDouble As String = "4.567."
+
+        Console.WriteLine(strMyName)
+        Console.WriteLine(intMyAge)
+        Console.WriteLine(dblDouble)
+
+
+        Console.ReadLine()
 
     End Sub
 
