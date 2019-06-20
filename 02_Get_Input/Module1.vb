@@ -2,8 +2,8 @@
     ''' <summary>
     '''     This program will show you how to get input from the user.
     ''' </summary>
-    ''' <author> Mr Macri </author>
-    ''' <date> 10Jun19 </date>
+    ''' <author> Takuma Kaneko </author>
+    ''' <date> 20/06/2019 </date>
     ''' 
     Sub Main()
         ' Housekeeping
