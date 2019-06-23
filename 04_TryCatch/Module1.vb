@@ -7,7 +7,7 @@ Module Module1
 
     Sub Main()
         Dim UserResponse As Integer
-        UserResponse = IntegerCheck(1, 5)
+        UserResponse = IntegerCheck(1, 10)
         Console.WriteLine("you entered the various number {0}", UserResponse)
         Console.ReadLine()
     End Sub
